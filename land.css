@@ -70,7 +70,7 @@ header{
     content: '';
     display: block;
     position: absolute;
-    background-image: url('pics/icon-hover.png');
+    background-image: url('icon-hover.png');
     background-size: cover;
     width: 20px;
     height: 20px;
